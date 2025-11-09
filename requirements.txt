@@ -4,4 +4,4 @@ pandas
 matplotlib
 keras
 streamlit
-
+scikit-learn
